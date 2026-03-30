@@ -1,0 +1,6 @@
+1-Serviços de internet são funcionalidades, aplicações e infraestruturas que permitem aos usuários acessar, compartilhar e gerenciar dados na rede mundial de computadores. 
+2-Protocolos web são conjuntos de regras padronizadas que definem como os computadores trocam informações na internet, garantindo que navegadores (clientes) e servidores se entendam para carregar sites e arquivos.
+Exe:O HTTP é o principal protocolo utilizado para transferir dados na World Wide Web.
+3-O principal papel do backend é gerenciar a lógica de negócios, a manipulação de dados e a infraestrutura de servidores de uma aplicação. Ele funciona nos bastidores ("back-stage"), sendo responsável por receber as requisições do frontend (interface do usuário), processá-las, consultar bancos de dados e retornar as respostas adequadas, garantindo que o sistema funcione de maneira eficiente e segura. 
+4-A comunicação backend-cliente funciona baseada em um modelo servidor-cliente, onde o backend (servidor) processa regras de negócio, gerencia dados e aguarda requisições, enquanto o frontend (cliente: web, mobile, desktop) consome esses dados, geralmente via internet.
+As arquiteturas definem como o código backend é organizado e como ele expõe serviços para os clientes. 
